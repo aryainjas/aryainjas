@@ -1,5 +1,4 @@
-Hi, I’m @Aryakanani**
-
- **How to reach me : instagram & telegram & tw: aryakanani1
+ instagram & telegram & tw: aryakanani1
+Discord:aryakkn#5037
  arya1uni@outlook.com
 
