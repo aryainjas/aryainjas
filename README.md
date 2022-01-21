@@ -35,3 +35,4 @@ discord : aryainjas#5037
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
     
+[![HitCount](http://hits.dwyl.com/aryainjas/aryainjas.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/aryainjas)
