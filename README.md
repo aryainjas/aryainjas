@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aryainjas" target="blank"><img src="https://img.shields.io/twitter/follow/aryainjas?logo=twitter&style=for-the-badge" alt="aryainjas" /></a> </p>
 
-- 🔭 I’m currently working on **BTC wallet hack using Python**
+- 🔭 I’m currently working on ** Ransomware **
 
 - 🌱 I’m currently learning **Data str and machine learning**
 
