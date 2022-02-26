@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aryainjas@outlook.com**
 
-- ⚡ fact **doctore hackfa**
+- ⚡ **they call me vahm**
 
 <h3 align="left">Connect with me:</h3>
 discord : aryainjas#5037
