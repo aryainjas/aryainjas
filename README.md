@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** Ransomware **
 
-- 🌱 I’m currently learning **Data str and machine learning**
+- 🌱 I’m currently learning **Data str and machine learning , JAVA **
 
 - 🤝 I’m looking for help with **Raspberry pi**
 
