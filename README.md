@@ -3,14 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/aryainjas" target="blank"><img src="https://img.shields.io/twitter/follow/aryainjas?logo=twitter&style=for-the-badge" alt="aryainjas" /></a> </p>
 
-- 🔭 I’m currently working on ** Ransomware **
+- 🔭 I’m currently working on ** Something fun **
 
-- 🌱 I’m currently learning **Data str and machine learning , JAVA **
-
-- 🤝 I’m looking for help with **Raspberry pi**
-
-- 💬 Ask me about **python,c++,ctf and competitive programming**
-
+- 🤝 I’m looking for help with **Security Analysis**
+  
 - 📫 How to reach me **aryainjas@outlook.com**
 
 
