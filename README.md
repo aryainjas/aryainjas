@@ -28,7 +28,6 @@ telegram : @aryainjas
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryainjas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aryainjas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryainjas&theme=highcontrast" alt="aryainjas" /></p>
 
 <a href="https://nowpayments.io/donation?api_key=8NWRRT9-GWM4NDE-JXPJF75-74ZY5D0" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
