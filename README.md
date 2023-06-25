@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 discord : aryainjas#5037
-telegram : aryainjas
+,
+telegram : @aryainjas
 <p align="left">
 <a href="https://twitter.com/aryainjas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryainjas" height="30" width="40" /></a>
 <a href="https://instagram.com/aryainjas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryainjas" height="30" width="40" /></a>
