@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-discord : aryainjas#5037
+discord : aryainjas
 ,
 telegram : @aryainjas
 <p align="left">
