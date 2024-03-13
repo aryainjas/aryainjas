@@ -2,8 +2,6 @@
 <h3 align="center">they call me vahm</h3>
 
 <p align="left"> <a href="https://twitter.com/aryainjas" target="blank"><img src="https://img.shields.io/twitter/follow/aryainjas?logo=twitter&style=for-the-badge" alt="aryainjas" /></a> </p>
-
-- 🤝 I’m looking for help with **Security Analysis**
   
 - 📫 How to reach me ** esteghra@proton.me **
 
