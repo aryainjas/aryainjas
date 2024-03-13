@@ -3,18 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/aryainjas" target="blank"><img src="https://img.shields.io/twitter/follow/aryainjas?logo=twitter&style=for-the-badge" alt="aryainjas" /></a> </p>
 
-- 🔭 I’m currently working on ** Something fun **
-
 - 🤝 I’m looking for help with **Security Analysis**
   
-- 📫 How to reach me **aryainjas@outlook.com**
+- 📫 How to reach me ** esteghra@proton.me **
 
 
 
 <h3 align="left">Connect with me:</h3>
 discord : aryainjas
 ,
-telegram : @aryainjas
+telegram : @esteghrav
 <p align="left">
 <a href="https://twitter.com/aryainjas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryainjas" height="30" width="40" /></a>
 <a href="https://instagram.com/aryainjas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryainjas" height="30" width="40" /></a>
