@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **DA project**
 
-- 📫 How to reach me **esteghra@proton.me** -- telegram: @Esteghrav
+- 📫 How to reach me **esteghra@proton.me** -- telegram: @aryainjas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
