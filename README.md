@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">They call me vahm</h3>
 
-- 🔭 I’m currently working on a **DA project**
-
 - 📫 How to reach me **esteghra@proton.me** -- telegram: @aryainjas
 
 <h3 align="left">Connect with me:</h3>
