@@ -52,9 +52,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryainjas.aryainjas&left_color=seagreen&right_color=blue"  />
-</div>
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Faryainjas%2Faryainjas&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 
 ###
 
