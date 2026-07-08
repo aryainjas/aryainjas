@@ -39,11 +39,11 @@ Also quietly obsessed with what happens when models meet messy data.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin" />
   </a>
   <img width="12" />
-  <a href="https://t.me/Hyperphobie" target="_blank">
+  <a href="https://t.me/acrophase" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram" />
   </a>
   <img width="12" />
-  <a href="mailto:Hyperphobie@proton.me" target="_blank">
+  <a href="mailto:acrophasic@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" height="40" alt="email" />
   </a>
 </div>
